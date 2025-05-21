@@ -1,0 +1,6 @@
+{
+  "name": "AI Diabetes Nutrition Planner",
+  "description": "An AI-powered system that creates personalized nutrition plans for individuals with diabetes, considering health metrics, socioeconomic factors, and literacy levels.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
